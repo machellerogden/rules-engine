@@ -1,0 +1,21 @@
+{
+  "name": "the-rules-engine",
+  "version": "0.0.0",
+  "description": "A flexible, forward-chaining rules engine for JavaScript applications.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "contributors": [
+    {
+      "name": "Mac Heller-Ogden",
+      "email": "machellerogden@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
